@@ -1,6 +1,6 @@
 
 
-This project provides a comprehensive guide on optimizing Google Cloud Platform (GCP) infrastructure using industry-standard tools. I delve into the specifics of Terraform, a powerful configuration language that allows you to define and manage GCP resources as code(IaC). By automating the deployment process with Terraform, you can significantly reduce manual errors and increase efficiency. Additionally, I explored how to integrate GitLab CI/CD pipelines into the workflow. This enables continuous testing, building, and deployment of your infrastructure code changes, ensuring that your GCP environment remains up-to-date and reliable.
+This project provides a comprehensive guide on optimizing Google Cloud Platform (GCP) infrastructure using industry-standard tools. I delve into the specifics of Terraform, a powerful configuration language that allows you to define and manage GCP resources as code(IaC). By automating the deployment process with Terraform, you can significantly reduce manual errors and increase efficiency. Additionally, I explored how to integrate GitLab CI/CD pipelines into the workflow. This enables continuous testing, building, and deployment of your infrastructure code changes, ensuring that your GCP environment remains up-to-date and reliable. I deployed a website to GCP using Terraform. 
 
 
 
